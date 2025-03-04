@@ -1,0 +1,16 @@
+{
+  "platforms": [
+    {
+      "name":"1xbet",
+      "countries":"IN,US",
+      "splash":"https://refbanners.com/I?tag=d_4154688m_99503c_&site=4154688&ad=99503",
+      "url":"https://ind.1xbet.com"
+    },
+    {
+      "name":"Parimatch",
+      "countries":"IN",
+      "splash":"https://refbanners.com/I?tag=d_4154688m_99503c_&site=4154688&ad=99503",
+      "url":"https://global.parimatch.com"
+    }
+  ]
+}
