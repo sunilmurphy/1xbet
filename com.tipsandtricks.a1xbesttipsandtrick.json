@@ -1,16 +1,11 @@
 {
   "directwebview": "1",
-  "countries": "IN,KR,MM,VN,SN,AR,PH,DZ,KE,AZ,CM,TR,ML,EG,NG,CI,GN,PK,BJ,LK,RU,UZ,BF,BD,ZM,BR,NE,CO,SL",
+  "countries": "KR,MM,VN,SN,AR,PH,DZ,KE,AZ,CM,TR,ML,EG,NG,CI,GN,PK,BJ,LK,RU,UZ,BF,BD,ZM,BR,NE,CO,SL",
   "platforms": [
     {
       "name": "1xbet",
       "image": "https://sunilmurphy.github.io/1xbet/poster1.gif",
       "url": "https://1xbetind.in/en?tag=d_4154688m_99503c_"
-    },
-    {
-      "name": "MelBet",
-      "image": "https://sunilmurphy.github.io/1xbet/melbet1.jpg",
-      "url": "https://melbet-india.net/en?tag=d_2283671m_45415c_Jaydeep"
     }
   ]
 }
